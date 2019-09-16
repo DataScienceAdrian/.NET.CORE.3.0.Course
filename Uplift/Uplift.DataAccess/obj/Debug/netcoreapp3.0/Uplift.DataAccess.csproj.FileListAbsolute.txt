@@ -3,3 +3,8 @@ D:\Programowanie\Repositories\ASPCourseRepository\Uplift\Uplift.DataAccess\bin\D
 D:\Programowanie\Repositories\ASPCourseRepository\Uplift\Uplift.DataAccess\obj\Debug\netcoreapp3.0\Uplift.DataAccess.csprojAssemblyReference.cache
 D:\Programowanie\Repositories\ASPCourseRepository\Uplift\Uplift.DataAccess\obj\Debug\netcoreapp3.0\Uplift.DataAccess.AssemblyInfoInputs.cache
 D:\Programowanie\Repositories\ASPCourseRepository\Uplift\Uplift.DataAccess\obj\Debug\netcoreapp3.0\Uplift.DataAccess.AssemblyInfo.cs
+D:\Programowanie\Repositories\.NETCORE 3.0 Course\.NET.CORE.3.0.course\Uplift\Uplift.DataAccess\bin\Debug\netcoreapp3.0\Uplift.DataAccess.deps.json
+D:\Programowanie\Repositories\.NETCORE 3.0 Course\.NET.CORE.3.0.course\Uplift\Uplift.DataAccess\bin\Debug\netcoreapp3.0\Uplift.DataAccess.dll
+D:\Programowanie\Repositories\.NETCORE 3.0 Course\.NET.CORE.3.0.course\Uplift\Uplift.DataAccess\obj\Debug\netcoreapp3.0\Uplift.DataAccess.csprojAssemblyReference.cache
+D:\Programowanie\Repositories\.NETCORE 3.0 Course\.NET.CORE.3.0.course\Uplift\Uplift.DataAccess\obj\Debug\netcoreapp3.0\Uplift.DataAccess.AssemblyInfoInputs.cache
+D:\Programowanie\Repositories\.NETCORE 3.0 Course\.NET.CORE.3.0.course\Uplift\Uplift.DataAccess\obj\Debug\netcoreapp3.0\Uplift.DataAccess.AssemblyInfo.cs
