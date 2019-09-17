@@ -29,7 +29,14 @@
         },
         "frameworks": {
           "netcoreapp3.0": {
-            "projectReferences": {}
+            "projectReferences": {
+              "D:\\Programowanie\\Repositories\\.NETCORE 3.0 Course\\.NET.CORE.3.0.course\\Uplift\\Uplift.Models\\Uplift.Models.csproj": {
+                "projectPath": "D:\\Programowanie\\Repositories\\.NETCORE 3.0 Course\\.NET.CORE.3.0.course\\Uplift\\Uplift.Models\\Uplift.Models.csproj"
+              },
+              "D:\\Programowanie\\Repositories\\.NETCORE 3.0 Course\\.NET.CORE.3.0.course\\Uplift\\Uplift.Utility\\Uplift.Utility.csproj": {
+                "projectPath": "D:\\Programowanie\\Repositories\\.NETCORE 3.0 Course\\.NET.CORE.3.0.course\\Uplift\\Uplift.Utility\\Uplift.Utility.csproj"
+              }
+            }
           }
         },
         "warningProperties": {
@@ -62,6 +69,126 @@
               "version": "[3.0.0-preview9.19424.4, )"
             }
           },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.0.100-preview9-014004\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\Programowanie\\Repositories\\.NETCORE 3.0 Course\\.NET.CORE.3.0.course\\Uplift\\Uplift.Models\\Uplift.Models.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Programowanie\\Repositories\\.NETCORE 3.0 Course\\.NET.CORE.3.0.course\\Uplift\\Uplift.Models\\Uplift.Models.csproj",
+        "projectName": "Uplift.Models",
+        "projectPath": "D:\\Programowanie\\Repositories\\.NETCORE 3.0 Course\\.NET.CORE.3.0.course\\Uplift\\Uplift.Models\\Uplift.Models.csproj",
+        "packagesPath": "C:\\Users\\amarc\\.nuget\\packages\\",
+        "outputPath": "D:\\Programowanie\\Repositories\\.NETCORE 3.0 Course\\.NET.CORE.3.0.course\\Uplift\\Uplift.Models\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\amarc\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.0": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.0": {
+          "dependencies": {
+            "Microsoft.AspNetCore.Mvc": {
+              "target": "Package",
+              "version": "[2.2.0, )"
+            },
+            "Microsoft.Extensions.Identity.Stores": {
+              "target": "Package",
+              "version": "[3.0.0-preview9.19424.4, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.0.100-preview9-014004\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\Programowanie\\Repositories\\.NETCORE 3.0 Course\\.NET.CORE.3.0.course\\Uplift\\Uplift.Utility\\Uplift.Utility.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Programowanie\\Repositories\\.NETCORE 3.0 Course\\.NET.CORE.3.0.course\\Uplift\\Uplift.Utility\\Uplift.Utility.csproj",
+        "projectName": "Uplift.Utility",
+        "projectPath": "D:\\Programowanie\\Repositories\\.NETCORE 3.0 Course\\.NET.CORE.3.0.course\\Uplift\\Uplift.Utility\\Uplift.Utility.csproj",
+        "packagesPath": "C:\\Users\\amarc\\.nuget\\packages\\",
+        "outputPath": "D:\\Programowanie\\Repositories\\.NETCORE 3.0 Course\\.NET.CORE.3.0.course\\Uplift\\Uplift.Utility\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\amarc\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.0": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.0": {
           "imports": [
             "net461",
             "net462",

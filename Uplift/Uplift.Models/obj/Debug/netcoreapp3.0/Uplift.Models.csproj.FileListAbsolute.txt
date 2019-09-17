@@ -3,3 +3,11 @@ D:\Programowanie\Repositories\ASPCourseRepository\Uplift\Uplift.Models\bin\Debug
 D:\Programowanie\Repositories\ASPCourseRepository\Uplift\Uplift.Models\obj\Debug\netcoreapp3.0\Uplift.Models.AssemblyInfoInputs.cache
 D:\Programowanie\Repositories\ASPCourseRepository\Uplift\Uplift.Models\obj\Debug\netcoreapp3.0\Uplift.Models.AssemblyInfo.cs
 D:\Programowanie\Repositories\ASPCourseRepository\Uplift\Uplift.Models\obj\Debug\netcoreapp3.0\Uplift.Models.csprojAssemblyReference.cache
+D:\Programowanie\Repositories\.NETCORE 3.0 Course\.NET.CORE.3.0.course\Uplift\Uplift.Models\bin\Debug\netcoreapp3.0\Uplift.Models.deps.json
+D:\Programowanie\Repositories\.NETCORE 3.0 Course\.NET.CORE.3.0.course\Uplift\Uplift.Models\bin\Debug\netcoreapp3.0\Uplift.Models.dll
+D:\Programowanie\Repositories\.NETCORE 3.0 Course\.NET.CORE.3.0.course\Uplift\Uplift.Models\bin\Debug\netcoreapp3.0\Uplift.Models.pdb
+D:\Programowanie\Repositories\.NETCORE 3.0 Course\.NET.CORE.3.0.course\Uplift\Uplift.Models\obj\Debug\netcoreapp3.0\Uplift.Models.csprojAssemblyReference.cache
+D:\Programowanie\Repositories\.NETCORE 3.0 Course\.NET.CORE.3.0.course\Uplift\Uplift.Models\obj\Debug\netcoreapp3.0\Uplift.Models.AssemblyInfoInputs.cache
+D:\Programowanie\Repositories\.NETCORE 3.0 Course\.NET.CORE.3.0.course\Uplift\Uplift.Models\obj\Debug\netcoreapp3.0\Uplift.Models.AssemblyInfo.cs
+D:\Programowanie\Repositories\.NETCORE 3.0 Course\.NET.CORE.3.0.course\Uplift\Uplift.Models\obj\Debug\netcoreapp3.0\Uplift.Models.dll
+D:\Programowanie\Repositories\.NETCORE 3.0 Course\.NET.CORE.3.0.course\Uplift\Uplift.Models\obj\Debug\netcoreapp3.0\Uplift.Models.pdb

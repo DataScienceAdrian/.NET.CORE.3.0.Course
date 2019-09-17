@@ -2963,6 +2963,30 @@
         "runtime": {
           "lib/netstandard1.3/System.Xml.XPath.XDocument.dll": {}
         }
+      },
+      "Uplift.Models/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v3.0",
+        "dependencies": {
+          "Microsoft.AspNetCore.Mvc": "2.2.0",
+          "Microsoft.Extensions.Identity.Stores": "3.0.0-preview9.19424.4"
+        },
+        "compile": {
+          "bin/placeholder/Uplift.Models.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Uplift.Models.dll": {}
+        }
+      },
+      "Uplift.Utility/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v3.0",
+        "compile": {
+          "bin/placeholder/Uplift.Utility.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Uplift.Utility.dll": {}
+        }
       }
     }
   },
@@ -8983,6 +9007,16 @@
         "system.xml.xpath.xdocument.4.3.0.nupkg.sha512",
         "system.xml.xpath.xdocument.nuspec"
       ]
+    },
+    "Uplift.Models/1.0.0": {
+      "type": "project",
+      "path": "../Uplift.Models/Uplift.Models.csproj",
+      "msbuildProject": "../Uplift.Models/Uplift.Models.csproj"
+    },
+    "Uplift.Utility/1.0.0": {
+      "type": "project",
+      "path": "../Uplift.Utility/Uplift.Utility.csproj",
+      "msbuildProject": "../Uplift.Utility/Uplift.Utility.csproj"
     }
   },
   "projectFileDependencyGroups": {
@@ -8991,7 +9025,9 @@
       "Microsoft.AspNetCore.Mvc >= 2.2.0",
       "Microsoft.EntityFrameworkCore >= 3.0.0-preview9.19423.6",
       "Microsoft.EntityFrameworkCore.SqlServer >= 3.0.0-preview9.19423.6",
-      "Microsoft.Extensions.Identity.Stores >= 3.0.0-preview9.19424.4"
+      "Microsoft.Extensions.Identity.Stores >= 3.0.0-preview9.19424.4",
+      "Uplift.Models >= 1.0.0",
+      "Uplift.Utility >= 1.0.0"
     ]
   },
   "packageFolders": {
@@ -9023,7 +9059,14 @@
       },
       "frameworks": {
         "netcoreapp3.0": {
-          "projectReferences": {}
+          "projectReferences": {
+            "D:\\Programowanie\\Repositories\\.NETCORE 3.0 Course\\.NET.CORE.3.0.course\\Uplift\\Uplift.Models\\Uplift.Models.csproj": {
+              "projectPath": "D:\\Programowanie\\Repositories\\.NETCORE 3.0 Course\\.NET.CORE.3.0.course\\Uplift\\Uplift.Models\\Uplift.Models.csproj"
+            },
+            "D:\\Programowanie\\Repositories\\.NETCORE 3.0 Course\\.NET.CORE.3.0.course\\Uplift\\Uplift.Utility\\Uplift.Utility.csproj": {
+              "projectPath": "D:\\Programowanie\\Repositories\\.NETCORE 3.0 Course\\.NET.CORE.3.0.course\\Uplift\\Uplift.Utility\\Uplift.Utility.csproj"
+            }
+          }
         }
       },
       "warningProperties": {

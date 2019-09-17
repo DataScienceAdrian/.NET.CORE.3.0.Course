@@ -485,3 +485,9 @@ D:\Programowanie\Repositories\.NETCORE 3.0 Course\.NET.CORE.3.0.course\Uplift\Up
 D:\Programowanie\Repositories\.NETCORE 3.0 Course\.NET.CORE.3.0.course\Uplift\Uplift\obj\Debug\netcoreapp3.0\Razor\Areas\Customer\Views\Home\Privacy.cshtml.g.cs
 D:\Programowanie\Repositories\.NETCORE 3.0 Course\.NET.CORE.3.0.course\Uplift\Uplift\obj\Debug\netcoreapp3.0\Razor\Areas\Customer\Views\_ViewImports.cshtml.g.cs
 D:\Programowanie\Repositories\.NETCORE 3.0 Course\.NET.CORE.3.0.course\Uplift\Uplift\obj\Debug\netcoreapp3.0\Razor\Areas\Customer\Views\_ViewStart.cshtml.g.cs
+D:\Programowanie\Repositories\.NETCORE 3.0 Course\.NET.CORE.3.0.course\Uplift\Uplift\bin\Debug\netcoreapp3.0\Uplift.DataAccess.dll
+D:\Programowanie\Repositories\.NETCORE 3.0 Course\.NET.CORE.3.0.course\Uplift\Uplift\bin\Debug\netcoreapp3.0\Uplift.Models.dll
+D:\Programowanie\Repositories\.NETCORE 3.0 Course\.NET.CORE.3.0.course\Uplift\Uplift\bin\Debug\netcoreapp3.0\Uplift.Utility.dll
+D:\Programowanie\Repositories\.NETCORE 3.0 Course\.NET.CORE.3.0.course\Uplift\Uplift\bin\Debug\netcoreapp3.0\Uplift.DataAccess.pdb
+D:\Programowanie\Repositories\.NETCORE 3.0 Course\.NET.CORE.3.0.course\Uplift\Uplift\bin\Debug\netcoreapp3.0\Uplift.Models.pdb
+D:\Programowanie\Repositories\.NETCORE 3.0 Course\.NET.CORE.3.0.course\Uplift\Uplift\bin\Debug\netcoreapp3.0\Uplift.Utility.pdb

@@ -1,0 +1,8 @@
+D:\Programowanie\Repositories\.NETCORE 3.0 Course\.NET.CORE.3.0.course\Uplift\Uplift.Utility\bin\Debug\netcoreapp3.0\Uplift.Utility.deps.json
+D:\Programowanie\Repositories\.NETCORE 3.0 Course\.NET.CORE.3.0.course\Uplift\Uplift.Utility\bin\Debug\netcoreapp3.0\Uplift.Utility.dll
+D:\Programowanie\Repositories\.NETCORE 3.0 Course\.NET.CORE.3.0.course\Uplift\Uplift.Utility\bin\Debug\netcoreapp3.0\Uplift.Utility.pdb
+D:\Programowanie\Repositories\.NETCORE 3.0 Course\.NET.CORE.3.0.course\Uplift\Uplift.Utility\obj\Debug\netcoreapp3.0\Uplift.Utility.csprojAssemblyReference.cache
+D:\Programowanie\Repositories\.NETCORE 3.0 Course\.NET.CORE.3.0.course\Uplift\Uplift.Utility\obj\Debug\netcoreapp3.0\Uplift.Utility.AssemblyInfoInputs.cache
+D:\Programowanie\Repositories\.NETCORE 3.0 Course\.NET.CORE.3.0.course\Uplift\Uplift.Utility\obj\Debug\netcoreapp3.0\Uplift.Utility.AssemblyInfo.cs
+D:\Programowanie\Repositories\.NETCORE 3.0 Course\.NET.CORE.3.0.course\Uplift\Uplift.Utility\obj\Debug\netcoreapp3.0\Uplift.Utility.dll
+D:\Programowanie\Repositories\.NETCORE 3.0 Course\.NET.CORE.3.0.course\Uplift\Uplift.Utility\obj\Debug\netcoreapp3.0\Uplift.Utility.pdb
