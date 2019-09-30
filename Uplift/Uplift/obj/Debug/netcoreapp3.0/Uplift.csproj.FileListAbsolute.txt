@@ -211,8 +211,6 @@ D:\Programowanie\Repositories\.NETCORE 3.0 Course\.NET.CORE.3.0.course\Uplift\Up
 D:\Programowanie\Repositories\.NETCORE 3.0 Course\.NET.CORE.3.0.course\Uplift\Uplift\bin\Debug\netcoreapp3.0\refs\Microsoft.Extensions.Configuration.KeyPerFile.dll
 D:\Programowanie\Repositories\.NETCORE 3.0 Course\.NET.CORE.3.0.course\Uplift\Uplift\bin\Debug\netcoreapp3.0\refs\Microsoft.Extensions.Configuration.UserSecrets.dll
 D:\Programowanie\Repositories\.NETCORE 3.0 Course\.NET.CORE.3.0.course\Uplift\Uplift\bin\Debug\netcoreapp3.0\refs\Microsoft.Extensions.Configuration.Xml.dll
-D:\Programowanie\Repositories\.NETCORE 3.0 Course\.NET.CORE.3.0.course\Uplift\Uplift\bin\Debug\netcoreapp3.0\refs\Microsoft.Extensions.DependencyInjection.Abstractions.dll
-D:\Programowanie\Repositories\.NETCORE 3.0 Course\.NET.CORE.3.0.course\Uplift\Uplift\bin\Debug\netcoreapp3.0\refs\Microsoft.Extensions.DependencyInjection.dll
 D:\Programowanie\Repositories\.NETCORE 3.0 Course\.NET.CORE.3.0.course\Uplift\Uplift\bin\Debug\netcoreapp3.0\refs\Microsoft.Extensions.Diagnostics.HealthChecks.Abstractions.dll
 D:\Programowanie\Repositories\.NETCORE 3.0 Course\.NET.CORE.3.0.course\Uplift\Uplift\bin\Debug\netcoreapp3.0\refs\Microsoft.Extensions.Diagnostics.HealthChecks.dll
 D:\Programowanie\Repositories\.NETCORE 3.0 Course\.NET.CORE.3.0.course\Uplift\Uplift\bin\Debug\netcoreapp3.0\refs\Microsoft.Extensions.FileProviders.Abstractions.dll
@@ -491,3 +489,10 @@ D:\Programowanie\Repositories\.NETCORE 3.0 Course\.NET.CORE.3.0.course\Uplift\Up
 D:\Programowanie\Repositories\.NETCORE 3.0 Course\.NET.CORE.3.0.course\Uplift\Uplift\bin\Debug\netcoreapp3.0\Uplift.DataAccess.pdb
 D:\Programowanie\Repositories\.NETCORE 3.0 Course\.NET.CORE.3.0.course\Uplift\Uplift\bin\Debug\netcoreapp3.0\Uplift.Models.pdb
 D:\Programowanie\Repositories\.NETCORE 3.0 Course\.NET.CORE.3.0.course\Uplift\Uplift\bin\Debug\netcoreapp3.0\Uplift.Utility.pdb
+D:\Programowanie\Repositories\.NETCORE 3.0 Course\.NET.CORE.3.0.course\Uplift\Uplift\bin\Debug\netcoreapp3.0\Dapper.dll
+D:\Programowanie\Repositories\.NETCORE 3.0 Course\.NET.CORE.3.0.course\Uplift\Uplift\bin\Debug\netcoreapp3.0\Microsoft.Extensions.DependencyInjection.dll
+D:\Programowanie\Repositories\.NETCORE 3.0 Course\.NET.CORE.3.0.course\Uplift\Uplift\bin\Debug\netcoreapp3.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Programowanie\Repositories\.NETCORE 3.0 Course\.NET.CORE.3.0.course\Uplift\Uplift\bin\Debug\netcoreapp3.0\System.Data.SqlClient.dll
+D:\Programowanie\Repositories\.NETCORE 3.0 Course\.NET.CORE.3.0.course\Uplift\Uplift\bin\Debug\netcoreapp3.0\runtimes\unix\lib\netstandard2.0\System.Data.SqlClient.dll
+D:\Programowanie\Repositories\.NETCORE 3.0 Course\.NET.CORE.3.0.course\Uplift\Uplift\bin\Debug\netcoreapp3.0\runtimes\win\lib\netstandard2.0\System.Data.SqlClient.dll
+D:\Programowanie\Repositories\.NETCORE 3.0 Course\.NET.CORE.3.0.course\Uplift\Uplift\obj\Debug\netcoreapp3.0\Razor\Areas\Admin\Views\Category\Index.cshtml.g.cs
